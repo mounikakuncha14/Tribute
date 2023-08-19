@@ -6,7 +6,7 @@ This is a tribute page to Falguni Sanjay Nayar, the founder and CEO of Nykaa, a 
 
 ## Live Version
 
-Check out the live version of the tribute page [here](https://yourusername.github.io/tribute/).
+Check out the live version of the tribute page [here]( https://mounikakuncha14.github.io/Tribute/).
 
 ## Description
 
@@ -24,17 +24,11 @@ This tribute page celebrates the achievements and contributions of Falguni Sanja
 
 ## Installation
 
-No installation is required. Simply visit the [live version](https://yourusername.github.io/tribute/) in your web browser.
+No installation is required. Simply visit the [live version]( https://mounikakuncha14.github.io/Tribute/) in your web browser.
 
 ## Credits
 
 - Tribute page developed by [Mounika Kuncha]
 - Images sourced from [from any webiste in Internet.]
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 Feel free to explore the tribute page and learn more about the remarkable achievements of Falguni Sanjay Nayar!
